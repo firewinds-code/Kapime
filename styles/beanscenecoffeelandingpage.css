@@ -1,0 +1,1298 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.beanscenecoffeelandingpage-Cv1 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffefc;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs {
+  margin-bottom: 8.2rem;
+  width: 142.4rem;
+  height: 77.7rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/coffeeimage-bg.png');
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .overlay-3Bs {
+  width: 137.7rem;
+  height: 76.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(0.2rem);
+  background-color: rgba(0, 0, 0, 0.200000003);
+  background: linear-gradient(89.82deg, rgba(30, 30, 30, 0.8000000119) -6.88%, rgba(0, 0, 0, 0.8000000119) 87.45%);
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .home-GKX {
+  width: 3.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 49.3rem;
+  top: 3.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .menu-XFT {
+  width: 3.6rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 59.1rem;
+  top: 3.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .about-us-Qq3 {
+  width: 5.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 68.7rem;
+  top: 3.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .contact-us-vYV {
+  width: 6.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 80.4rem;
+  top: 3.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .kapime-2Ld {
+  width: 8.8rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 2.1rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Clicker Script, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .sign-in-iDT {
+  width: 4.5rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 3.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-2-DAD {
+  width: 10rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 117.3rem;
+  top: 2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-6-nsX {
+  width: 56.8rem;
+  height: 49rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 18.3rem;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-6-nsX .group-4-iFP {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  height: 41.5rem;
+  position: relative;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-6-nsX .group-4-iFP .weve-got-your-moments-covered-with-sweetness-of-3oT {
+  width: 51.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-6-nsX .group-4-iFP .indulge-in-the-sweetest-moments-of-your-day-explore-the-most-exquisite-candy-and-chocolate-flavors-that-are-crafted-with-perfection-just-for-you-we-deliver-the-finest-treats-to-satisfy-your-sweet-cravings-KW5 {
+  width: 51.4rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 0;
+  top: 27.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-6-nsX .group-4-iFP .candies-8Cd {
+  width: 56.8rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  font-size: 22rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Clicker Script, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-i6hj-zqs .group-6-nsX .group-5-EmT {
+  width: 13.4rem;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q {
+  margin-bottom: 9.5rem;
+  width: 100%;
+  height: 234.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .coffeeblast-B4R {
+  width: 49.8rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 33.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .coffeeblast-h2m {
+  width: 47.8rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 99.3rem;
+  top: 107.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-9-E2h {
+  width: 118.5rem;
+  height: 48.4rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-9-E2h .group-7-Yp5 {
+  margin-right: 9.8rem;
+  width: 58.7rem;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-9-E2h .group-7-Yp5 .auto-group-cny5-VjK {
+  margin-bottom: 4.9rem;
+  box-sizing: border-box;
+  padding: 4.7rem 0rem 0rem 0.2rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-9-E2h .group-7-Yp5 .auto-group-cny5-VjK .kapime-unwrap-the-sweet-symphony-where-every-delightful-bite-is-crafted-to-elevate-your-mood-and-indulge-your-senses-savor-the-extraordinary-because-having-a-treat-is-good-but-savoring-a-kapine-delight-is-an-experience-like-no-other-discover-a-world-of-decadence-that-will-redefine-your-love-for-candies-and-chocolates-pmb {
+  max-width: 57.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-9-E2h .group-7-Yp5 .group-5-vbf {
+  width: 13.4rem;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-9-E2h .mask-group-aRK {
+  width: 50rem;
+  height: 48.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo {
+  width: 118rem;
+  height: 54.2rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 56.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .auto-group-frcm-dPb {
+  width: 100%;
+  height: 15.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu {
+  width: 100%;
+  height: 38.8rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-17-UQD {
+  width: 28rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-17-UQD .rectangle-6-dH7 {
+  width: 28rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(249, 192, 106, 0.4199999869);
+  box-sizing: border-box;
+  background-color: #fff9f1;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-17-UQD .rectangle-7-Yey {
+  width: 28rem;
+  height: 20.5rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 110.583% 108.293%;
+  background-position: -1.2816rem 0;
+  background-image: url('../assets/rectangle-7.png');
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-17-UQD .group-5-T1F {
+  width: 13.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 34rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-17-UQD .group-10-tsF {
+  box-sizing: border-box;
+  padding-top: 3.7rem;
+  width: 22.3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 23.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-17-UQD .group-10-tsF .auto-group-6udj-pku {
+  width: 100%;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-18-YS1 {
+  width: 28rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-18-YS1 .rectangle-8-JAH {
+  width: 28rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(249, 192, 106, 0.4199999869);
+  box-sizing: border-box;
+  background-color: #fff9f1;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-18-YS1 .rectangle-9-RVo {
+  width: 28rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-18-YS1 .group-11-NR3 {
+  width: 13.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 34rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-18-YS1 .group-12-pH3 {
+  width: 13.3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 23.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-19-5yf {
+  width: 28rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-19-5yf .rectangle-10-SpD {
+  width: 28rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(249, 192, 106, 0.4199999869);
+  box-sizing: border-box;
+  background-color: #fff9f1;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-19-5yf .rectangle-11-Nhs {
+  width: 28rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-19-5yf .group-13-Kd7 {
+  width: 13.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 34rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-19-5yf .group-14-nWh {
+  box-sizing: border-box;
+  padding: 1.9rem 0rem 0.956rem 0rem;
+  width: 13.7578rem;
+  height: 5.5564rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 25.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-20-sHF {
+  width: 28rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-20-sHF .rectangle-12-1PT {
+  width: 28rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(249, 192, 106, 0.4199999869);
+  box-sizing: border-box;
+  background-color: #fff9f1;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-20-sHF .rectangle-13-k69 {
+  width: 28rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-20-sHF .group-15-tTF {
+  width: 13.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 34rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-25-Kdo .group-21-LYu .group-20-sHF .group-16-jim {
+  box-sizing: border-box;
+  padding: 3.5rem 0rem 2.4rem 0.8rem;
+  width: 10.9rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 23.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV {
+  box-sizing: border-box;
+  padding-bottom: 7.5rem;
+  width: 118rem;
+  height: 61.2rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 119rem;
+  row-gap: 3.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-23-JfP {
+  margin: 0 25.85rem;
+  width: calc(100% - 51.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-23-JfP .why-are-we-different-Rzu {
+  margin: 0rem 0rem 1.6rem 0.3rem;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-23-JfP .we-dont-just-make-your-candies-and-chocolates-we-make-your-happiness-7cq {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB {
+  width: 100%;
+  height: 28.4rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-32-LVb {
+  box-sizing: border-box;
+  padding: 2.6rem 4rem 3.6rem 3.9rem;
+  width: 28rem;
+  height: 100%;
+  background-color: #ffeed8;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-32-LVb .group-26-TKK {
+  width: 100%;
+  height: 100%;
+  row-gap: 0.7rem;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-32-LVb .group-26-TKK .coffee-beans-1-bwK {
+  width: 16.7rem;
+  height: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-32-LVb .group-26-TKK .supreme-beans-kJR {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-32-LVb .group-26-TKK .candies-that-provides-great-taste-tfX {
+  width: 100%;
+  max-width: 19.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-33-zyT {
+  box-sizing: border-box;
+  padding: 3.6rem 5.7rem;
+  width: 28rem;
+  height: 100%;
+  border: solid 0.1rem rgba(236, 173, 77, 0.7900000215);
+  background-color: #fff9f1;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-33-zyT .group-27-M3K {
+  width: 100%;
+  height: 100%;
+  row-gap: 0.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-33-zyT .group-27-M3K .badge-1-6Fo {
+  margin-right: 0.1rem;
+  width: 11.1rem;
+  height: 10.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-33-zyT .group-27-M3K .high-quality-Ros {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-33-zyT .group-27-M3K .we-provide-the-highest-quality-msj {
+  max-width: 13.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-29-4M3 {
+  box-sizing: border-box;
+  padding: 2.6rem 4rem 1rem 4.9rem;
+  width: 28rem;
+  height: 100%;
+  border: solid 0.1rem rgba(236, 173, 77, 0.7900000215);
+  background-color: #fff9f1;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-29-4M3 .group-28-zVb {
+  width: 100%;
+  height: 100%;
+  row-gap: 0.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-29-4M3 .group-28-zVb .coffee-cup-1-LZT {
+  margin-right: 1.6rem;
+  width: 12.3rem;
+  height: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-29-4M3 .group-28-zVb .extraordinary-g7X {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-29-4M3 .group-28-zVb .sweetness-like-you-have-never-tasted-pDj {
+  margin-right: 0.8rem;
+  max-width: 16.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-31-W6Z {
+  box-sizing: border-box;
+  padding: 3.6rem 3.4rem 3.6rem 3.5rem;
+  width: 28rem;
+  height: 100%;
+  border: solid 0.1rem rgba(236, 173, 77, 0.7900000215);
+  background-color: #fff9f1;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-31-W6Z .group-30-EoF {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-31-W6Z .group-30-EoF .best-price-1-bth {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  width: 8.8rem;
+  height: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-31-W6Z .group-30-EoF .auto-group-s6h3-XnM {
+  width: 100%;
+  height: 9.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-31-W6Z .group-30-EoF .auto-group-s6h3-XnM .affordable-price-VDP {
+  width: 21.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .group-34-CuB .group-31-W6Z .group-30-EoF .auto-group-s6h3-XnM .our-chocolates-and-candies-prices-are-easy-to-afford-zvq {
+  width: 17.8rem;
+  height: 8rem;
+  position: absolute;
+  left: 2.15rem;
+  top: 1.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH {
+  max-width: 57.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH-sub-1 {
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH-sub-2 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH-sub-3 {
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH-sub-4 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-35-1AV .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH .great-moments-start-with-great-taste-lets-help-you-achieve-that-get-started-today-fGH-sub-5 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV {
+  width: 149rem;
+  height: 57.4rem;
+  position: absolute;
+  left: 0;
+  top: 177rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq {
+  margin-right: 12.4rem;
+  box-sizing: border-box;
+  padding: 6.4rem 5.8rem;
+  width: 136.6rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-14-bg-vGV.png');
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq .group-37-TdP {
+  width: 51.5rem;
+  height: 30.4rem;
+  row-gap: 2.2rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq .group-37-TdP .get-a-chance-to-have-amazing-moments-bjb {
+  max-width: 51.5rem;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #3325d5;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq .group-37-TdP .elevate-your-lifestyle-with-kapime-your-ultimate-shopping-destination--7xq {
+  margin-left: 0.4rem;
+  max-width: 32.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq .group-37-TdP .elevate-your-lifestyle-with-kapime-your-ultimate-shopping-destination--7xq .elevate-your-lifestyle-with-kapime-your-ultimate-shopping-destination--7xq-sub-0 {
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq .group-37-TdP .elevate-your-lifestyle-with-kapime-your-ultimate-shopping-destination--7xq .elevate-your-lifestyle-with-kapime-your-ultimate-shopping-destination--7xq-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #f047e9;
+  font-family: PoetsenOne, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-abch-S6q .group-38-apV .group-36-XUq .group-37-TdP .group-5-9Y9 {
+  width: 13.4rem;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT {
+  width: 141.4rem;
+  height: 179.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .rectangle-7-661 {
+  width: 136.6rem;
+  height: 49.2rem;
+  position: absolute;
+  left: 0;
+  top: 130.4rem;
+  background-color: #442808;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .fotterimage-ca9 {
+  width: 136.6rem;
+  height: 49.2rem;
+  position: absolute;
+  left: 0;
+  top: 130.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H {
+  box-sizing: border-box;
+  padding: 19.8rem 19.3rem 8.8rem 19.3rem;
+  width: 136.6rem;
+  height: 51.2rem;
+  position: absolute;
+  left: 0;
+  top: 80rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-14-bg.png');
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj {
+  box-sizing: border-box;
+  padding: 0rem 9rem 0rem 9.2rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.4rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj .group-45-bBB {
+  margin-bottom: 4.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj .group-45-bBB .subscribe-to-get-the-latest-news-8gu {
+  margin-bottom: 1.2rem;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #442808;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj .group-45-bBB .dont-miss-out-on-our-latest-news-updates-tips-and-special-offers-eQM {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.7;
+  color: #1e1e1e;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj .group-48-LY5 {
+  margin: 0rem 7.9rem 0rem 7.7rem;
+  box-sizing: border-box;
+  padding-left: 2.55rem;
+  width: calc(100% - 15.6rem);
+  height: 6.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #fff9f1;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj .group-48-LY5 .enter-your-mail-3xH {
+  margin-right: 33.85rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: rgba(0, 0, 0, 0.3400000036);
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-46-94H .group-49-emj .group-48-LY5 .group-47-NUm {
+  width: 13.7rem;
+  height: 100%;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3325;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd {
+  width: 141.4rem;
+  height: 82.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .rectangle-7-Vho {
+  width: 98rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 26.8rem;
+  border: solid 0.1rem rgba(249, 192, 106, 0.4199999869);
+  box-sizing: border-box;
+  background-color: #fff9f1;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .i-stumbled-upon-this-candy-haven-and-it-was-love-at-first-bite-the-variety-is-astounding-and-the-flavors-are-nothing-short-of-magical-each-candy-is-a-tiny-masterpiece-and-i-find-myself-coming-back-for-more-ritu-a-satisfied-sweet-tooth-their-candies-are-not-just-treats-they-are-works-of-art-the-attention-to-detail-in-every-piece-is-remarkable-the-flavors-are-unique-and-truly-capture-the-essence-of-india-this-candy-shop-has-become-my-go-to-for-special-occasions-and-everyday-cravings-aditya-a-regular-customer-bVw {
+  width: 84.9rem;
+  height: 36rem;
+  position: absolute;
+  left: 25.75rem;
+  top: 37.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .our-customers-has-amazing-things-to-say-about-us-at-kapime-we-take-pride-in-curating-an-unforgettable-experience-for-our-customers-these-testimonials-are-a-testament-to-the-dedication-and-craftsmanship-that-go-into-creating-our-sweet-treasures-join-the-chorus-of-satisfied-customers-and-treat-yourself-to-the-magic-of-our-candies-today-VUq {
+  width: 97.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 16.65rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #707070;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .group-42-FcR {
+  box-sizing: border-box;
+  padding: 2.9rem;
+  width: 8.2rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 15.2rem;
+  top: 48.9rem;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 1.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .group-42-FcR .group-40-AjP {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .group-43-UEH {
+  box-sizing: border-box;
+  padding: 2.9rem;
+  width: 8.2rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 113.2rem;
+  top: 48.9rem;
+  box-shadow: 0 0.6rem 1.2rem rgba(249, 192, 106, 0.2199999988);
+  background-color: #f9c06a;
+  border-radius: 1.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .group-43-UEH .group-41-Cg5 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .coffeeblast-7Y9 {
+  width: 49.8rem;
+  height: 24.9rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 13.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-44-AQd .coffeeblast-e2H {
+  width: 41.4rem;
+  height: 22.6rem;
+  position: absolute;
+  left: 0;
+  top: 60.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-59-agd {
+  width: 13.4rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 146.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-59-agd .company-69B {
+  margin-bottom: 5.5rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-59-agd .how-we-work-terms-of-service-pricing-faq-DzV {
+  max-width: 13.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.3333333333;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-58-9NM {
+  width: 13.6rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 146.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-58-9NM .about-5mo {
+  margin-bottom: 5.5rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-58-9NM .menu-features-news-blogs-help-supports-E8u {
+  max-width: 13.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.3333333333;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm {
+  width: 30rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 94.1rem;
+  top: 146.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm .contact-us-gmb {
+  margin-bottom: 3.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm .group-56-2aZ {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm .group-56-2aZ .akshya-nagar-1st-block-1st-cross-rammurthy-nagar-bangalore-560016-zGV {
+  margin-bottom: 2.8rem;
+  max-width: 30rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm .group-56-2aZ .item-1-202-918-2132-JHB {
+  margin-bottom: 2.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm .group-56-2aZ .kapiinemailcom-cof {
+  margin-bottom: 2.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-57-9Wm .group-56-2aZ .wwwbeanscenecom-A4V {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw {
+  width: 42.5rem;
+  height: 26.6rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 146.6rem;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .kapime-puj {
+  margin-bottom: 2rem;
+  font-size: 5.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Dancing Script, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .elevate-your-sweetest-moments-with-kapime-crafting-perfection-in-every-bite-uncover-a-world-of-exquisite-candy-and-chocolate-flavors-tailored-just-for-you-satisfy-your-sweet-cravings-with-our-finest-treats-delivered-with-a-touch-of-indulgence-ma5 {
+  margin-bottom: 2.7rem;
+  max-width: 42.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .group-54-1DX {
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .group-54-1DX .group-50-kgu {
+  margin-right: 3.7821rem;
+  width: 4.5385rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .group-54-1DX .group-51-to7 {
+  margin-right: 3.7821rem;
+  width: 4.5385rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .group-54-1DX .group-52-E6H {
+  margin-right: 3.7821rem;
+  box-sizing: border-box;
+  padding: 0.733rem 0.378rem 0.733rem 0.378rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Tr5.png');
+  flex-shrink: 0;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .group-54-1DX .group-52-E6H .vector-Z8Z {
+  width: 3.7821rem;
+  height: 2.9333rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.beanscenecoffeelandingpage-Cv1 .auto-group-av1b-9wT .group-60-6Tw .group-54-1DX .group-53-H4Z {
+  width: 4.5385rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
